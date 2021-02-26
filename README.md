@@ -1,1 +1,1 @@
-# credit-sesame-challenge
+# credit-card-challenge
